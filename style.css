@@ -2,7 +2,7 @@
     color: white;
     font-weight: 600;
 }
-#first {background-image: url("netflix-clone-boilerplate/assets/Title-Image.png");
+#first {background-image: url("./assets/Title-Image.png");
  background-attachment: scroll;
  background-repeat: no-repeat;
  background-position: center;
@@ -68,7 +68,7 @@ padding-right: 20px;}
 #r, #s {padding-left: 25px;}
 
 @media(max-width:500px){
-    #first{background-image:url("netflix-clone-boilerplate/assets/Title-Image.png");
+    #first{background-image:url("./assets/Title-Image.png");
     width:145vw;}
     nav {
         width: 145vw;
